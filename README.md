@@ -4,7 +4,7 @@
 
 <p>Hello I am just an individual contributor that is trying to construct good github projects which people can use and utilize to develop further. Feel free to fork my repositories and develop upon them</p>
 
-- 🔭 I’m currently working on a open source embedding platform for security and developing my own blogpost
+- 🔭 I’m currently working on a fitness application and developing my own blogpost
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React, MERN Stack, Python, Machine Learning, Deep Learning etc.**
 
